@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/prefix-infix-notation/build/
+/prefix-infix-notation/build/classes/kotlin/main/
+/prefix-infix-notation/build/classes/kotlin/test/
