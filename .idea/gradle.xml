@@ -9,7 +9,6 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/prefix-infix-notation" />
-            <option value="$PROJECT_DIR$/prefix_infinx-notation" />
           </set>
         </option>
       </GradleProjectSettings>
